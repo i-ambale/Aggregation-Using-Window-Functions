@@ -1,6 +1,6 @@
 # Aggregation using Window Functions
 
-📚 **Author**: ExploreAI Academy  
+📚 **Author**: Ibrahim Ambale | ExploreAI Academy  
 ⚠️ **Note**: This notebook will **not** run on Google Colab because it requires a connection to a **local MySQL database** (`united_nations`). Please run it on the same machine where **MySQL Workbench** and the **united_nations** database are installed.
 
 ---
